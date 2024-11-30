@@ -20,19 +20,18 @@ A modern and visually appealing landing page for Nike, built using **React.js**.
 Follow these steps to run the project locally:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Ayan-Alam25/nike-landing-page.git
-   cd nike-landing-page
-
+```bash
+git clone https://github.com/Ayan-Alam25/nike-landing-page.git
+cd nike-landing-page
+```
 2. Install dependencies:
-    ```bash 
-    npm install
-
-
+```bash 
+npm install
+```
 3.Start the development server:
-    ```bash 
-    npm start
-
+```bash    
+npm start
+```
 
 The application will run on http://localhost:3000.
 
