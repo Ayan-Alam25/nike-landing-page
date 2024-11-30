@@ -25,10 +25,14 @@ Follow these steps to run the project locally:
    cd nike-landing-page
 
 2. Install dependencies:
-```bash npm install
+    ```bash 
+    npm install
 
-3.Start the development server :
-```bash npm start
+
+3.Start the development server:
+    ```bash 
+    npm start
+
 
 The application will run on http://localhost:3000.
 
